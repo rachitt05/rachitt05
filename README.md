@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rachit Tiwari</h1>
 <h3 align="center">A Programmer</h3>
 
