@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="right"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"alt="Coding Img"> </p>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"alt="Coding Img">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
